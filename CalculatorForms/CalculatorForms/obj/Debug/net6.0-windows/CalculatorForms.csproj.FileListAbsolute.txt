@@ -1,0 +1,17 @@
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.Form1.resources
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.Properties.Resources.resources
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.csproj.GenerateResource.cache
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.AssemblyInfoInputs.cache
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.AssemblyInfo.cs
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\bin\Debug\net6.0-windows\CalculatorForms.exe
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\bin\Debug\net6.0-windows\CalculatorForms.deps.json
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\bin\Debug\net6.0-windows\CalculatorForms.runtimeconfig.json
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\bin\Debug\net6.0-windows\CalculatorForms.dll
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\bin\Debug\net6.0-windows\CalculatorForms.pdb
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.dll
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\refint\CalculatorForms.dll
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.pdb
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\CalculatorForms.genruntimeconfig.cache
+C:\Users\Sevgi\source\repos\CalculatorForms\CalculatorForms\obj\Debug\net6.0-windows\ref\CalculatorForms.dll
